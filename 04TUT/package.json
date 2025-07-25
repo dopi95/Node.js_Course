@@ -2,7 +2,7 @@
   "devDependencies": {
     "nodemon": "^3.1.10"
   },
-  "name": "03tut",
+  "name": "04tut",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
